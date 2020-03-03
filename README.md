@@ -9,4 +9,9 @@
   <li>Change the Content location to match your configuration (where you extracted the Logitech Rally Firmware Updater_files above)</li>
   <li>Deploy and Distribute the application</li>
   </ol>
-Note: This application will import an condition to detect if the Rally is connected, this will ensure it only is deployed to devices with a Rally attached. If you do not want this condition remove the requirment from the application deployment type.
+  <B>Notes:</B>
+<ul>
+  <li>This application will import an condition to detect if the Rally is connected, this will ensure it only is deployed to devices with a Rally attached. If you do not want this condition remove the requirment from the application deployment type.</li>
+  <li>You will want to download the latest version of the firmware from Logitech Support site</li>
+  </ul>
+  
