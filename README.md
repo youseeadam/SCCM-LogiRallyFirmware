@@ -18,6 +18,6 @@
   <B>Notes:</B>
 <ul>
   <li>This application will import an condition to detect if the Rally is connected, this will ensure it only is deployed to devices with a Rally attached. If you do not want this condition remove the requirment from the application deployment type.</li>
-  <li>You will want to download the latest version of the firmware from Logitech Support site</li>
+  <li>You will want to download the latest version of the firmware from Logitech Support site. If you do download a newer version, make sure to rename the file to FWUpdateRally.exe</li>
   </ul>
   
