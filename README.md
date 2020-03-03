@@ -7,6 +7,12 @@
   <li>Go the properties of the Application</li>
   <li>Edit the deployment type of "Logitech Rally Firmware Updater"</li>
   <li>Change the Content location to match your configuration (where you extracted the Logitech Rally Firmware Updater_files above)</li>
+  <li>In the command to install, you can change the rightsight to the following<br>
+    <blockquote>
+      Dynamic (Defualt)<br>
+      OCS (On Call Start, frame only at the begging of the meeting<br>
+      Off
+      </blockquote>
   <li>Deploy and Distribute the application</li>
   </ol>
   <B>Notes:</B>
